@@ -1,0 +1,7 @@
+F:\Euklid Operation\Euklid Operation\bin\Debug\Euklid Operation.exe.config
+F:\Euklid Operation\Euklid Operation\bin\Debug\Euklid Operation.exe
+F:\Euklid Operation\Euklid Operation\bin\Debug\Euklid Operation.pdb
+F:\Euklid Operation\Euklid Operation\obj\Debug\Euklid Operation.csproj.AssemblyReference.cache
+F:\Euklid Operation\Euklid Operation\obj\Debug\Euklid Operation.csproj.CoreCompileInputs.cache
+F:\Euklid Operation\Euklid Operation\obj\Debug\Euklid Operation.exe
+F:\Euklid Operation\Euklid Operation\obj\Debug\Euklid Operation.pdb
